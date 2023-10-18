@@ -1,0 +1,5 @@
+org.springframework.test.context.ContextCustomizerFactory = com.tta.\
+    gestioncommerciale.config.TestContainersSpringContextCustomizerFactory,com.\
+    tta.gestioncommerciale.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.tta.gestioncommerciale.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
